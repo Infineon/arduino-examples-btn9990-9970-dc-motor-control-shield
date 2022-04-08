@@ -1,8 +1,8 @@
-# DC Motor Control Shield with BTN9970LV and BTN9970LV Arduino examples
+# DC Motor Control Shield with BTN9990LV and BTN9970LV Arduino examples
 
 This repository contains application examples for the following Infineon DC Motor Control Shield compatible with Arduino UNO form factor microcontroller boards:
 
-* DC Motor Control Shield with BTN9970LV and BTN9970LV [DC-SHIELD_BTN9970LV](https://www.infineon.com/cms/de/product/evaluation-boards/dc-shield_btn9970lv/)
+* DC Motor Control Shield with BTN9990LV and BTN9970LV [DC-SHIELD_BTN9970LV](https://www.infineon.com/cms/de/product/evaluation-boards/dc-shield_btn9970lv/)
 
 <img src="https://www.infineon.com/export/sites/default/_images/product/evaluation-boards/BTN99xxNovalithIC-.png_1304862384.png" width=400>
 
@@ -17,7 +17,7 @@ Before getting your hands on the hardware be sure that you know the necessary sa
 
 ## Hardware requirements
 
-* DC Motor Control Shield with BTN9970LV and BTN9970LV [DC-SHIELD_BTN9970LV](https://www.infineon.com/cms/de/product/evaluation-boards/dc-shield_btn9970lv/)
+* DC Motor Control Shield with BTN9990LV and BTN9970LV [DC-SHIELD_BTN9970LV](https://www.infineon.com/cms/de/product/evaluation-boards/dc-shield_btn9970lv/)
 * Arduino UNO board
 * External power supply
 * DC motor
