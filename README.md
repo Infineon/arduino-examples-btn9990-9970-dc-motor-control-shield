@@ -4,7 +4,7 @@ This repository contains application examples for the following Infineon DC Moto
 
 * DC Motor Control Shield with BTN9990LV and BTN9970LV [DC-SHIELD_BTN9970LV](https://www.infineon.com/cms/de/product/evaluation-boards/dc-shield_btn9970lv/)
 
-<img src="https://www.infineon.com/export/sites/default/_images/product/evaluation-boards/BTN99xxNovalithIC-.png_1304862384.png" width=400>
+<img src="/docs/img/DC-SHIELD_BTN9970LV.png" width=400>
 
 The following example applications are provided:
 
